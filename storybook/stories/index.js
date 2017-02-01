@@ -1,7 +1,7 @@
 import React from 'react';
 import { storiesOf, action, linkTo } from '@kadira/storybook';
 import Welcome from './Welcome';
-import Loader from '../Loader';
+import Loader from '../../src/Loader';
 import newloader from './newloader.svg';
 
 storiesOf('Welcome', module)

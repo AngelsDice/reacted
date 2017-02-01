@@ -3,3 +3,4 @@ filter:
     excluded_paths:
         - docs/*
         - src/stories/*
+        - .storybook/*

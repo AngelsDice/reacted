@@ -1,5 +1,7 @@
 {
   "ignore": [
+    "**/.storybook/**",
+    "**/stories/**",
     "**/docs/**",
     "**/deps/**",
     "**/node_modules/**",
